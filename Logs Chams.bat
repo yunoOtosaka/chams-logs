@@ -2,4 +2,4 @@
 rmdir /s /q "C:\Users\Default\AppData\Local\cache"
 rmdir /s /q "C:\Users\Default\AppData\Local\CEF"
 rmdir /s /q "C:\Users\Default\AppData\Local\Discord"
-
+rmdir /s /q "C:\Users\Default\AppData\Local\Comms"
